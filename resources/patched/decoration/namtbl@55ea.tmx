@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="3" height="2" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="charset" tilewidth="8" tileheight="8" tilecount="256" columns="16">
+  <image source="charset@6000.namtbl.png" width="128" height="128"/>
+ </tileset>
+ <layer id="1" name="namtbl" width="3" height="2">
+  <data encoding="csv">
+102,103,104,
+106,107,108
+</data>
+ </layer>
+</map>

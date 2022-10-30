@@ -1,0 +1,26 @@
+{
+	"files.associations": {
+		"*.makefile": "makefile",
+		"makefile.*": "makefile"
+	},
+	"files.exclude": {
+		"tniasm.out": true,
+		"tniasm.sym": true,
+		"tniasm.tmp": true,
+		"**/*.bin": { "when": "$(basename)" },
+		"**/*.chr": { "when": "$(basename)" },
+		"**/*.clr": { "when": "$(basename)" },
+		"**/*.spr": { "when": "$(basename)" },
+	},
+	"[java]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4,
+		"editor.rulers": [ 120 ],
+	},
+	"z80-asm-meter.platform": "msx",
+	"[z80-macroasm]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 8,
+		"editor.rulers": [ 80 ],
+	},
+}

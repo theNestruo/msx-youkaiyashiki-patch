@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="charset" tilewidth="8" tileheight="8" tilecount="224" columns="16">
+  <image source="charset@6800.namtbl@7780.png" width="32" height="560"/>
+ </tileset>
+ <layer id="1" name="namtbl" width="8" height="8">
+  <data encoding="csv">
+177,129,179,180,145,146,129,148,181,182,183,184,149,150,151,152,185,186,187,188,153,154,155,156,129,190,191,192,157,158,159,129,129,194,195,196,161,162,163,129,129,198,199,200,165,166,167,129,129,202,203,204,169,170,171,129,129,206,207,208,173,174,175,129
+</data>
+ </layer>
+</map>

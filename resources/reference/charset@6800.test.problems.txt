@@ -1,0 +1,16 @@
+PNG2MSX: A tool to convert PNG images to TMS9918 format
+Reading input file resources\patched\charset@6800.test.png...
+Processing blocks...
+WARN: Collision at 24,40: 771b1111
+WARN: Collision at 16,112: ffffff1e
+WARN: Collision at 16,117: 115111e1
+WARN: Collision at 0,162: 1111d11a
+WARN: Collision at 8,168: ffffff1a
+WARN: Collision at 24,169: 8888811a
+WARN: Collision at 32,169: 1111181a
+WARN: Collision at 32,170: 1811118a
+WARN: Collision at 32,171: 8111118a
+WARN: Collision at 32,172: 8111111a
+WARN: Collision at 32,175: 8111111a
+Working mode is: single PNG file.
+Done!
